@@ -1,0 +1,9 @@
+<?php
+/**
+ * Use
+ */
+// global $tp_options;
+// echo '<pre>';
+// print_r( $tp_options );
+// echo '</pre>';
+
